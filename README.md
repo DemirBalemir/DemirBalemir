@@ -1,4 +1,18 @@
-## Hi there 👋
+# Demir Balmemir
+I'm Demir from Türkiye, and i am Junior computer engineering student. I really enjoy learning languages and frameworks like React,Python and Javascript as well as cloud and its features.
+
+
+## Skills and Experience
+Front-End Development
+⚛ React
+💻 HTML, CSS, JavaScript
+Back-End Development
+🚀 Node.js
+🚀 Java & Spring
+🚀 GraphQL
+🚀 MySQL
+Cloud & DevOps
+☁️ AWS
 
 <!--
 **DemirBalemir/DemirBalemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-# Demir Balmemir
+# Demir Balemir
 I'm Demir from Türkiye, and i am Junior computer engineering student. I really enjoy learning languages and frameworks like React,Python and Javascript as well as cloud and its features.
 
 

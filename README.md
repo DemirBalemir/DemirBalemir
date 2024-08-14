@@ -3,17 +3,20 @@ I'm Demir from Türkiye, and i am Junior computer engineering student. I really 
 
 
 ## Skills and Experience
-Front-End Development
+
+**Front-End Development**
 
 ⚛ React
 💻 HTML, CSS, JavaScript
-Back-End Development
+
+**Back-End Development**
 
 🚀 Node.js
 🚀 Java & Spring
 🚀 GraphQL
 🚀 MySQL
-Cloud & DevOps
+
+**Cloud & DevOps**
 
 ☁️ AWS
 

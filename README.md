@@ -1,5 +1,5 @@
 # Demir Balemir
-I'm Demir from Türkiye, and i am Junior computer engineering student. I really enjoy learning languages and frameworks like React,Python and Javascript as well as cloud and its features.
+I'm Demir from Türkiye, and i am a computer engineering student in my Junior year. I really enjoy learning languages and frameworks like React,Python and Javascript as well as cloud and its features.
 
 
 ## Skills and Experience
@@ -18,7 +18,7 @@ I'm Demir from Türkiye, and i am Junior computer engineering student. I really 
 
 **Cloud & DevOps**
 
-☁️ AWS
+☁️ AWS Certified Cloud Practitioner
 <!--
 **DemirBalemir/DemirBalemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

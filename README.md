@@ -11,7 +11,7 @@ Hi, I’m Demir from Türkiye — a Senior Computer Engineering student passiona
 - 🧑‍🎨 **HTML**, **CSS**, **JavaScript**
 
 ### 🔧 Back-End Development
-- 🧠 **Go** (concurrency, graph algorithms, testing)
+- 🧠 **Go**
 - 🚀 **Node.js**
 - ☕ **Java & Spring**
 - 🔌 **GraphQL**
